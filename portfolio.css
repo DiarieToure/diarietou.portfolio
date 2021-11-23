@@ -303,12 +303,20 @@ color: #000000;
 
 .owl-theme .owl-dots .owl-dot span 
 {
-    background: #f28686;
-    
+    border: #f28686 solid 2px;
+    background: #fff;
 }
 .owl-carousel
 {
     max-width:750px;
 }
+.block_carousel button
+{
+    width: 30px;
+}
+/* .block_carousel
+{
+    margin-left: 30%;
+} */
 
 /*======================================================== END PROFIL Page =============*/
